@@ -1,93 +1,34 @@
-![pulsar_star_wp](https://gssc.esa.int/navipedia/images/a/a9/Example.jpg)
+![graphical-abstract](https://pub.mdpi-res.com/inorganics/inorganics-08-00050/article_deploy/html/images/inorganics-08-00050-ag-550.jpg?1602051362)
 
-# Project Titel
+# Ordinary Differential Equations modeling for cofactor binding
 
 ### Project Overview
-Objective: Describe the main goal of the project, which is to use machine learning techniques to predict a specific outcome based on the given dataset.
+Objective: Model incorporation of the FeGP cofactor into the hydrgenase and it's catalytic capabilities.
 
-Context: Explain the challenges or complexities involved in the domain or field of study. Mention any common obstacles or issues that make the task difficult.
+Context: Fe-hydrogenase is the third type of hydrogenase which requires a co-factor, the FeGP cofactor. The kinetics of incorporation, activation and catalysis aren't yet fully understood. This work was done as part of the following work: ![Crystal Structures of [Fe]-Hydrogenase from Methanolacinia paynteri Suggest a Path of the FeGP-Cofactor Incorporation Process](https://doi.org/10.3390/inorganics8090050)
 
-Significance: Highlight the importance of achieving accurate predictions and how it benefits further research, analysis, or practical applications in the field.
+Significance: Understanding cofactor binding and enzyme activation kinetics is an ongoing problem in biochemistry, with various approaches being developed. Mathematical modeling and computational simulation are one of this approaches, here applied for the first time to the anaerobic Fe-hyrogenase.
 
-Goal: State the ultimate aim of the project, such as identifying specific phenomena, improving detection accuracy, or prioritizing certain areas for more detailed investigation.
+Goal: Determine if observed kinetics can be explained through a mathematical model which furthers expands the reconsitution hypotfesis.
 ## Team Members
 
-- Team Member 1: [GitHub](https://github.com/xxx)
-- Team Member 2: [GitHub](https://github.com/xxx)
-- Team Member 3: [GitHub](https://github.com/xxx)
+- Dr. Francisco J. Arriaza G.
 
-## Jupyter Notebooks
+## Code
 
-This project consists of xxx Jupyter Notebooks that serve different purposes:
-
-1. **Notebook1.ipynb**: 
-
-For example: This notebook focuses on Exploratory Data Analysis (EDA) and training various models for pulsar star classification. It includes data preprocessing, feature engineering, model training, and evaluation... etc. 
-
-2. **Notebook2.ipynb**: 
-
-...
-
-3. **Notebook3.ipynb**: 
-
-...
-
-## Installation and Setup
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-```
-git clone https://github.com/daistmarco/PredictingPulsarStar.git
-```
-2. Navigate to the project directory:
-```
-cd your-repository
-```
-3. Install the required dependencies:
-```
-pip install -r requirements.txt
-```
-4. Download the modified dataset and place it in the project directory. The original dataset can be acquired from the link [xxx](link here).
-
-5. ...
-
-**Note:** If any of the above files are missing, the corresponding functionality may not work as expected.
-
-Once the setup is complete, you can use the provided functions, such as `ann_prediction(csv_file)`, to make predictions on new data using the pre-trained models.
+The projects consist of several python files for each condition studied. One master script with the corresponding ODEs is found under /models/hcr.py
 
 
 ## Dataset
 
-Descibe where you got the Data from. Did you get it from different sources? Provide Download links only if publicly available. 
+Experimental kinetic data performed at the Microbial Protein Structure group lead by Dr. Seigo Shima at the Max Planck Institute for Terrestrial Microbiology.
 
-## Attribute Information
+## Publication
 
-The dataset contains the following attributes:
+Crystal Structures of [Fe]-Hydrogenase from Methanolacinia paynteri Suggest a Path of the FeGP-Cofactor Incorporation Process.
 
-1. ...
-2. ...
-3. ...
-4. ...
+Gangfeng Huang, Francisco Javier Arriaza-Gallardo, Tristan Wagner and Seigo Shima
 
-The dataset contains a total of xxx examples, with xxx positive examples and xxx negative examples.
+https://doi.org/10.3390/inorganics8090050
 
-
-## EDA/Cleaning
-
-...
-
-## Model Choices
-
-What models did you test against each other and why? How did you optimize them? 
-
-## Results
-
-What metric did you use and why? How did you final model perform? 
-
-## Prediction Function
-
-What happens when a prediction is made using the final function? What scripts are run? 
-
-## Final Remarks
-
+![https://doi.org/10.3390/inorganics8090050](https://doi.org/10.3390/inorganics8090050)
