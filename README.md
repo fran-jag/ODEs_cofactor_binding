@@ -1,6 +1,6 @@
 ![graphical-abstract](https://pub.mdpi-res.com/inorganics/inorganics-08-00050/article_deploy/html/images/inorganics-08-00050-ag-550.jpg?1602051362)
 
-# Ordinary Differential Equations Modeling for Cofactor Binding
+# Ordinary Differential Equations Modeling for Cofactor Binding (2020)
 
 ### Project Overview
 
