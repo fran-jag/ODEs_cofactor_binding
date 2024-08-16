@@ -20,7 +20,8 @@ Goal: Determine if observed kinetics can be explained through a mathematical mod
 
 ## Code
 
-The project consists of several Python files for each condition studied. One master script with the corresponding ODEs is found under /models/hcr.py
+The project consists of several Python files for each condition studied. The kinetic approximation and ODEs derivation can be found in /plots/ODEs_S7 and ODEs_S9, as stated in the supplementary figures of the publication.
+One master script with the corresponding ODEs is found under /models/hcr.py
 
 ## Dataset
 
