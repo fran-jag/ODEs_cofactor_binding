@@ -13,10 +13,10 @@ Goal: Determine if observed kinetics can be explained through a mathematical mod
 
 ## Team Members
 
-Gangfeng Huang
-Francisco J. Arriaza G.
-Tristan Wagner
-Seigo Shima
+- Gangfeng Huang
+- Francisco J. Arriaza G.
+- Tristan Wagner
+- Seigo Shima
 
 ## Code
 
