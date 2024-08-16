@@ -5,7 +5,7 @@
 ### Project Overview
 
 Objective: Model the incorporation of the FeGP cofactor into the hydrogenase and its catalytic capabilities.
-Context: Fe-hydrogenase is the third type of hydrogenase which requires a cofactor, the FeGP cofactor. The kinetics of incorporation, activation, and catalysis aren't yet fully understood. This work was done as part of the following study: ![Crystal Structures of [Fe]-Hydrogenase from Methanolacinia paynteri Suggest a Path of the FeGP-Cofactor Incorporation Process](https://doi.org/10.3390/inorganics8090050)
+Context: Fe-hydrogenase is the third type of hydrogenase which requires a cofactor, the FeGP cofactor. The kinetics of incorporation, activation, and catalysis aren't yet fully understood. This work was done as part of the following study: [Crystal Structures of [Fe]-Hydrogenase from Methanolacinia paynteri Suggest a Path of the FeGP-Cofactor Incorporation Process](https://doi.org/10.3390/inorganics8090050)
 
 Significance: Understanding cofactor binding and enzyme activation kinetics is an ongoing problem in biochemistry, with various approaches being developed. Mathematical modeling and computational simulation are among these approaches, applied here for the first time to the anaerobic Fe-hydrogenase.
 
@@ -33,5 +33,5 @@ Crystal Structures of [Fe]-Hydrogenase from Methanolacinia paynteri Suggest a Pa
 
 Gangfeng Huang, Francisco Javier Arriaza-Gallardo, Tristan Wagner and Seigo Shima
 
-![https://doi.org/10.3390/inorganics8090050](https://doi.org/10.3390/inorganics8090050)
+[https://doi.org/10.3390/inorganics8090050](https://doi.org/10.3390/inorganics8090050)
 
